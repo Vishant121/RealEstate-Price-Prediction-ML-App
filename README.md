@@ -85,7 +85,8 @@ The app is deployed on an **AWS EC2 Ubuntu instance**.
 The **Flask backend** is hosted and accessible via the EC2 public IP address.  
 Nginx or security group settings may be used to expose port 5000.  
 
-🔗 [View Deployed App](http://ec2-54-204-208-132.compute-1.amazonaws.com/)
+🔗 <a href="http://ec2-54-204-208-132.compute-1.amazonaws.com/" target="_blank">View Deployed App</a>
+
 
 
 ---
@@ -111,5 +112,6 @@ For major changes, please open an issue first.
 **Vishant Choudhary**  
 AI & Data Science Engineer | ML Enthusiast  
 
-📬 [Connect on LinkedIn](https://www.linkedin.com/in/vishantchoudhary)
+📬 <a href="https://www.linkedin.com/in/vishantchoudhary" target="_blank">Connect on LinkedIn</a>
+
 
